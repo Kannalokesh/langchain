@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+ECHO is on.
+# Virtual environments
+venv/
+.env/
+.venv/
+ECHO is on.
+# IDE / Editor
+.vscode/
+.idea/
+*.log
+ECHO is on.
+# OS files
+Thumbs.db
+.DS_Store
+ECHO is on.
+# Bytecode cache
+*.egg-info/
+build/
+dist/
+.env 
